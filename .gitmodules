@@ -1,0 +1,3 @@
+[submodule "repos/vim-config"]
+	path = repos/vim-config
+	url = https://github.com/rimthong/vim-config.git
